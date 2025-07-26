@@ -1,0 +1,13 @@
+    .producto, .carrito-item {
+      border: 3px solid #ccc;
+      padding: 10px;
+      margin: 5px;
+    }
+    .carrito {
+      margin-top: 20px;
+      border-top: 2px solid black;
+    }
+
+    body {
+      background-color: aliceblue;
+    }
